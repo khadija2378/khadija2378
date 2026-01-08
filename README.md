@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Khadija Araja
 
-<!--
-**khadija2378/khadija2378** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Web Developer  
+⚛️ React.js | Laravel | MySQL  
+🎯 Actively looking for a job opportunity in web development  
+📍 Morocco
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- JavaScript (ES6)
+- React.js
+- Tailwind CSS
+- PHP
+- Laravel
+- MySQL
+- Git & GitHub
+- REST APIs
+- Agile / Scrum
+
+---
+
+## 🚀 Projects
+
+### 📚 MyBooks – Final Project
+A web application for managing books and loans.
+
+**Tech Stack:**
+- Front-end: React.js + Tailwind CSS  
+- Back-end: Laravel (REST API)  
+- Database: MySQL  
+
+**Features:**
+- User authentication
+- Books CRUD
+- Loans management
+- Front-end & API integration
+
+🔗 Project link:  
+https://github.com/khadija2378/mybooks
+
+---
+
+## 📈 Currently Working On
+- Improving my React.js skills
+- Writing clean and maintainable code
+- Building real-world projects
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/khadija2378  
+- LinkedIn: https://linkedin.com/in/YOUR-LINK
+
+⭐ Feel free to check out my projects!
