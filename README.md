@@ -46,10 +46,5 @@ https://github.com/khadija2378/mybooks
 - Writing clean and maintainable code
 - Building real-world projects
 
----
-
-## 📫 Contact Me
-- GitHub: https://github.com/khadija2378  
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
 
 ⭐ Feel free to check out my projects!
