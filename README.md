@@ -37,7 +37,7 @@ A web application for managing books and loans.
 - Front-end & API integration
 
 🔗 Project link:  
-https://github.com/khadija2378/mybooks
+https://github.com/khadija2378/Application-de-Biblioth-que-Personnelle.git
 
 ---
 
